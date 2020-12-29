@@ -1,0 +1,17 @@
+
+
+{
+    "model_name": "model2",
+    "strings": [
+        {
+            "name": "Second_name",
+            "type": "CharField",
+            "max_length": "10"
+        },
+        {
+            "name": "Second_name_2",
+            "type": "CharField",
+            "max_length": "20"
+        }
+    ]
+}

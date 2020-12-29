@@ -1,0 +1,15 @@
+{
+    "model_name": "model1",
+    "strings": [
+        {
+            "name": "first_name",
+            "type": "CharField",
+            "max_length": "50"
+        },
+        {
+            "name": "first_name_2",
+            "type": "CharField",
+            "max_length": "60"
+        }
+    ]
+}
